@@ -1,5 +1,5 @@
 # tp2_sir
-* TP réalisé par le binôme SYLLA MOHAMED LAMINE et LE QUANG. 
+* TP réalisé par le binôme SYLLA Mohamed Lamine et LE Quang. 
 * Nous avons utilisé un template de projet maven pour la construction d’application autonome utilisant JPA, hibernate et hsqldb, à partir du lien suivant : https://goo.gl/ofZbOu
 
 ## Objectifs
